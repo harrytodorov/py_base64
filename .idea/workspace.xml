@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b776c577-ea2d-4414-ac6c-17bad40937c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/base64.py" />
-    </list>
+    <list default="true" id="b776c577-ea2d-4414-ac6c-17bad40937c4" name="Default" comment="" />
     <ignored path="py_base64.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
